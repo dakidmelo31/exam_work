@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "text": "SM10A003",
+      "day": "Steve Mc Laughline",
+      "attendance": true,
+      "id": 1
+    }
+  ]
+}
